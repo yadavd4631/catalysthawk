@@ -1,0 +1,15 @@
+{
+  "contract_min_value": 5000000,
+  "contract_min_mcap_ratio_alert": 0.10,
+  "contract_ratio_siren": 0.50,
+  "max_mcap_for_smallcap": 2000000000,
+  "contracts_lookback_days": 5,
+
+  "cluster_min_insiders": 3,
+  "cluster_min_total": 500000,
+  "single_buy_min": 250000,
+  "cluster_total_siren": 2000000,
+  "lookback_days_cluster": 7,
+
+  "max_posts_per_run": 3
+}
