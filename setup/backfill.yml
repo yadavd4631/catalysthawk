@@ -1,0 +1,41 @@
+name: backfill-contracts
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Kitne din ka contracts history backfill karna hai"
+        required: true
+        default: "90"
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Backfill USAspending contracts
+        env:
+          SEC_CONTACT_EMAIL: ${{ secrets.SEC_CONTACT_EMAIL }}
+          BACKFILL_DAYS: ${{ github.event.inputs.days }}
+        run: python -m src.collect_contracts
+
+      - name: Commit
+        run: |
+          git config user.name "catalysthawk-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data state
+          git diff --staged --quiet || git commit -m "backfill: ${{ github.event.inputs.days }} days"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          git push
