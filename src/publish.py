@@ -71,8 +71,13 @@ def post_x(text: str, image_path) -> bool:
 
 
 def post_telegram(text: str, image_path) -> bool:
-    token = os.environ["TELEGRAM_BOT_TOKEN"]
-    chat = os.environ["TELEGRAM_PUBLIC_CHANNEL"]
+    token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+    chat = os.environ.get("TELEGRAM_PUBLIC_CHANNEL", "").strip()
+    if not token or not chat:
+        raise RuntimeError(
+            "skipped — TELEGRAM_BOT_TOKEN secret ya TELEGRAM_PUBLIC_CHANNEL "
+            "variable abhi set nahi hai (BotFather se banao, README dekho)"
+        )
     with open(image_path, "rb") as f:
         r = http().post(
             f"https://api.telegram.org/bot{token}/sendPhoto",
