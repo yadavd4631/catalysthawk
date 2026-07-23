@@ -36,8 +36,12 @@ def recent(dirname: str, days: int) -> list:
 def match_ticker(recipient: str, tmap: dict, overrides: dict, blocklist: set):
     """Recipient name -> ticker. Manual overrides first, then guarded auto-match."""
     n = norm(recipient)
-    if not n or n in blocklist:
+    if not n:
         return None
+    # blocklist: exact ya prefix match (e.g. "LEIDOS" blocks "LEIDOS BIOMEDICAL RESEARCH")
+    for b in blocklist:
+        if b and (n == b or n.startswith(b + " ")):
+            return None
     for name, tk in overrides.items():
         if not tk:
             continue
@@ -72,15 +76,21 @@ def run():
         amount = float(c.get("amount") or 0)
         if amount < cfg.get("contract_min_value", 5_000_000):
             continue
+        if amount > cfg.get("contract_max_value", 2_000_000_000):
+            continue  # mega-prime / ceiling awards — small-cap catalyst nahi
         tk = match_ticker(c.get("recipient", ""), tmap, overrides, blocklist)
         if not tk:
             continue
         mcap = market_cap(s, tk)
-        if mcap and mcap > max_mcap:
+        if mcap is None:
+            continue  # mcap verify nahi hui -> post NAHI (false-positive safety)
+        if mcap > max_mcap:
             continue
-        ratio = (amount / mcap) if mcap else None
-        if ratio is not None and ratio < cfg.get("contract_min_mcap_ratio_alert", 0.10):
+        ratio = amount / mcap
+        if ratio < cfg.get("contract_min_mcap_ratio_alert", 0.10):
             continue
+        if ratio > cfg.get("contract_max_mcap_ratio_sanity", 5.0):
+            continue  # award >> mcap = ceiling/IDV data artifact
         stories.append(
             {
                 "id": sid,
