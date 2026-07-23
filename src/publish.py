@@ -143,6 +143,37 @@ def run():
     log("publish: done")
 
 
+# ---------- one-time live smoke test ----------
+
+def test_post():
+    """Manual smoke test: DRY_RUN variable ko 'test' set karke Run workflow dabao.
+    Sirf manual (workflow_dispatch) runs pe chalta hai — scheduled runs pe kabhi nahi,
+    taki bhool se DRY_RUN=test chhut jaye to bhi spam na ho."""
+    if os.environ.get("GITHUB_EVENT_NAME", "workflow_dispatch") != "workflow_dispatch":
+        log("DRY_RUN=test hai lekin ye SCHEDULED run hai -> skip.")
+        log(">> Reminder: repo Variables me DRY_RUN wapas 'true' ya 'false' karo!")
+        return
+    from .charts import test_card
+
+    img = test_card(OUT / "test")
+    cap = (
+        "🦅 Systems check: online.\n\n"
+        "Tracking U.S. government contract awards + insider cluster buys "
+        "in small caps.\n\n"
+        "Real alerts start soon. Not financial advice."
+    )
+    try:
+        post_x(strip_urls(cap), img)
+        log("TEST -> X posted ✓  (profile check karo!)")
+    except Exception as e:
+        log("TEST -> X FAILED:", repr(e))
+    try:
+        post_telegram(cap + "\n\n🦅 CatalystHawk", img)
+        log("TEST -> Telegram posted ✓")
+    except Exception as e:
+        log("TEST -> Telegram failed (token set nahi hai to ye normal hai):", repr(e))
+
+
 # ---------- demo (no network posting, sample stories) ----------
 
 def demo():
