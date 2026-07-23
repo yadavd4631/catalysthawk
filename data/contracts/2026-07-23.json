@@ -8998,5 +8998,1769 @@
   "sub_agency": "Department of Veterans Affairs",
   "desc": "EXPRESS REPORT: MEDICAL SURGICAL PRIME VENDOR EXPENDITURES FOR THE MONTH OF MAY 2026",
   "date": "2026-05-01"
+ },
+ {
+  "id": "CONT_AWD_80SSC025F0005_8000_80SSC025D0001_8000",
+  "recipient": "NOVA SPACE SOLUTIONS, LLC",
+  "amount": 81472598.98,
+  "agency": "National Aeronautics and Space Administration",
+  "sub_agency": "National Aeronautics and Space Administration",
+  "desc": "THIS COSMIC TASK ORDER IS CREATED FOR FUNDING OF THE COST-PLUS-INCENTIVE-FEE CLIN 9002 OF 80SSC025D0001.",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "CONT_AWD_36C10F25C50000_3600_-NONE-_-NONE-",
+  "recipient": "ESA SOUTH, INC.",
+  "amount": 81141333.42,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "BILOXI BUILDING 1 RENOVATION",
+  "date": "2025-01-07"
+ },
+ {
+  "id": "CONT_AWD_36C10X26K0383_3600_36C10X23D0032_3600",
+  "recipient": "MEDLINE INDUSTRIES, LP",
+  "amount": 80581144.0,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "EXPRESS REPORT: MEDICAL SURGICAL PRIME VENDOR EXPENDITURES FOR THE MONTH OF JUNE 2026",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "CONT_AWD_75FCMC25FJ048_7530_75FCMC19D0059_7530",
+  "recipient": "TMF HEALTH QUALITY INSTITUTE",
+  "amount": 77139823.26,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Centers for Medicare and Medicaid Services",
+  "desc": "THE CONTRACTOR SHALL FURNISH THE NECESSARY PERSONNEL, MATERIALS, SERVICES, EQUIPMENT, AND FACILITIES (EXCEPT AS OTHERWISE SPECIFIED HEREIN),",
+  "date": "2025-05-28"
+ },
+ {
+  "id": "CONT_AWD_1605C223C0026_1605_-NONE-_-NONE-",
+  "recipient": "UBC NATIONAL JOB CORPS TRAINING FUND INC",
+  "amount": 76258296.63,
+  "agency": "Department of Labor",
+  "sub_agency": "Office of the Assistant Secretary for Administration and Management",
+  "desc": "JOB CORPS NATIONAL TRAINING CONTRACT (NTC) CARPENTRY TRADE(S) 2023",
+  "date": "2023-07-31"
+ },
+ {
+  "id": "CONT_AWD_1605JE22C0014_1605_-NONE-_-NONE-",
+  "recipient": "MANAGEMENT & TRAINING CORPORATION",
+  "amount": 75803747.67,
+  "agency": "Department of Labor",
+  "sub_agency": "Office of the Assistant Secretary for Administration and Management",
+  "desc": "OPERATIONS OF THE EDISON JOB CORPS CENTER WITH OUTREACH AND ADMISSIONS AND CAREER TRANSITION SERVICES.",
+  "date": "2022-06-29"
+ },
+ {
+  "id": "CONT_AWD_47QFCA22C0006_4732_-NONE-_-NONE-",
+  "recipient": "LIFE SCIENCE LOGISTICS LLC",
+  "amount": 73285667.0,
+  "agency": "General Services Administration",
+  "sub_agency": "Federal Acquisition Service",
+  "desc": "MANAGED SERVICES SUPPORT FOR GOVERNMENTOWNED PHARMACEUTICAL MEDICAL SUPPLIES AND MEDICAL EQUIPMENT SITE L",
+  "date": "2021-12-14"
+ },
+ {
+  "id": "CONT_AWD_19AQMM23F1518_1900_19AQMM21D0012_1900",
+  "recipient": "GENERAL DYNAMICS INFORMATION TECHNOLOGY INC.",
+  "amount": 72733386.77,
+  "agency": "Department of State",
+  "sub_agency": "Department of State",
+  "desc": "GLOBAL SUPPORT STRATEGY FOR OVERSEAS CONSULAR SUPPORT SERVICES 2.0 (GSS 2.) MISSION ASA.",
+  "date": "2023-06-13"
+ },
+ {
+  "id": "CONT_AWD_89503021FWA400413_8900_47QTCH18D0014_4732",
+  "recipient": "EPSILON INC",
+  "amount": 72524999.12,
+  "agency": "Department of Energy",
+  "sub_agency": "Department of Energy",
+  "desc": "WAPA-WIDE PROFESSIONAL INFORMATION TECHNOLOGY (IT) SUPPORT SERVICES",
+  "date": "2021-04-28"
+ },
+ {
+  "id": "CONT_AWD_89303324FEM400420_8900_89303320DEM000038_8900",
+  "recipient": "APTIM FEDERAL SERVICES, LLC",
+  "amount": 71912534.5,
+  "agency": "Department of Energy",
+  "sub_agency": "Department of Energy",
+  "desc": "THE GOAL OF THE ENVIRONMENTAL MANAGEMENT CONSOLIDATED BUSINESS CENTER NEW YORK EMCBC-NY NAVAL REACTORS NR DEACTIVATION, DECOMMISSIONING AND ",
+  "date": "2024-06-27"
+ },
+ {
+  "id": "CONT_AWD_140P2026C0037_1443_-NONE-_-NONE-",
+  "recipient": "PERINI MANAGEMENT SERVICES, INC.",
+  "amount": 69535671.0,
+  "agency": "Department of the Interior",
+  "sub_agency": "National Park Service",
+  "desc": "DEVA 318717 - \"REHABILITATE FURNACE CREEK AND COW CREEK WATER AND WASTEWATER TREATMENT SYSTEMS.\"",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "CONT_AWD_140R4026C0006_1425_-NONE-_-NONE-",
+  "recipient": "AMES FEDERAL CONTRACTING GROUP LLC",
+  "amount": 67726344.0,
+  "agency": "Department of the Interior",
+  "sub_agency": "Bureau of Reclamation",
+  "desc": "NGWSP INTAKE & RIVER PUMPING PLANT",
+  "date": "2026-04-03"
+ },
+ {
+  "id": "CONT_AWD_HHSN275201700002C_7529_-NONE-_-NONE-",
+  "recipient": "THE EMMES COMPANY, LLC",
+  "amount": 66041065.18,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "National Institutes of Health",
+  "desc": "IGF::OT::IGF DATA COORDINATING CENTER FOR THE BEST PHARMACEUTICALS FOR CHILDREN ACT",
+  "date": "2017-07-28"
+ },
+ {
+  "id": "CONT_AWD_19AQMM20F7733_1900_19AQMM20A0585_1900",
+  "recipient": "IRON VINE SECURITY LLC",
+  "amount": 64971827.07,
+  "agency": "Department of State",
+  "sub_agency": "Department of State",
+  "desc": "THE CALL IS FOR INFORMATION TECHNOLOGY SECURITY COMPLIANCE (ITSC) SERVICES.",
+  "date": "2020-09-30"
+ },
+ {
+  "id": "CONT_AWD_70B02C25F00001144_7014_70B04C19D00000044_7014",
+  "recipient": "CHARTIS CONSULTING CORPORATION",
+  "amount": 64783959.0,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Customs and Border Protection",
+  "desc": "THE CONTRACTOR SHALL PROVIDE LINEAR GROUND DETECTION SYSTEM (LGDS) FIBER OPTIC CABLE INSTALLATION SUPPORT ALONG THE U.S. BORDER.",
+  "date": "2025-09-29"
+ },
+ {
+  "id": "CONT_AWD_140R4026C0001_1425_-NONE-_-NONE-",
+  "recipient": "AMES FEDERAL CONTRACTING GROUP LLC",
+  "amount": 61761618.44,
+  "agency": "Department of the Interior",
+  "sub_agency": "Bureau of Reclamation",
+  "desc": "NGWSP PUMPING PLANT 1",
+  "date": "2025-11-10"
+ },
+ {
+  "id": "CONT_AWD_1605JE21C0001_1605_-NONE-_-NONE-",
+  "recipient": "EDUCATION & TRAINING RESOURCES LLC",
+  "amount": 54679717.61,
+  "agency": "Department of Labor",
+  "sub_agency": "Office of the Assistant Secretary for Administration and Management",
+  "desc": "OPERATION OF THE MONTGOMERY JOB CORPS CENTER WITH OUTREACH AND ADMISSIONS AND CAREER TRANSITION SERVICES",
+  "date": "2020-11-01"
+ },
+ {
+  "id": "CONT_AWD_1305M224F0196_1330_1305M419DNCNA0018_1330",
+  "recipient": "LYNKER CORPORATION",
+  "amount": 53992819.63,
+  "agency": "Department of Commerce",
+  "sub_agency": "National Oceanic and Atmospheric Administration",
+  "desc": "FUNDING PROVIDED FOR THE NEW TECHNICAL SERVICES CONTRACT IN SUPPORT OF THE NATIONAL DATA BUOY CENTER. THIS CONTRACT WILL PROVIDE TECHNICAL A",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "CONT_AWD_693KA920F00174_6920_DTFAWA11A00159_6920",
+  "recipient": "GUZMAN & GRIFFIN TECHNOLOGIES, INC.",
+  "amount": 52917337.35,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "NEW TASK ORDER, AJI POLICY AND PERFORMANCE SUPPORT",
+  "date": "2020-08-28"
+ },
+ {
+  "id": "CONT_AWD_70SBUR22F00000116_7003_75N98120D00157_7529",
+  "recipient": "INADEV CORPORATION",
+  "amount": 52867104.49,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Citizenship and Immigration Services",
+  "desc": "FRAUD INVESTIGATION NATIONAL SECURITY COORDINATED HEURISTICS (FINCH) ANALYTICS",
+  "date": "2022-09-09"
+ },
+ {
+  "id": "CONT_AWD_1605JW23C0002_1605_-NONE-_-NONE-",
+  "recipient": "THE BIZZELL GROUP LLC",
+  "amount": 51862542.82,
+  "agency": "Department of Labor",
+  "sub_agency": "Office of the Assistant Secretary for Administration and Management",
+  "desc": "BASE AWARD FOR THE GUTHRIE JOB CORPS CENTER WITH OUTREACH AND ADMISSIONS AND CAREER TRANSITION SERVICES",
+  "date": "2023-04-25"
+ },
+ {
+  "id": "CONT_AWD_1305M224F0065_1330_DOCEA133W17CQ0082_1330",
+  "recipient": "RAYTHEON COMPANY",
+  "amount": 45549965.05,
+  "agency": "Department of Commerce",
+  "sub_agency": "National Oceanic and Atmospheric Administration",
+  "desc": "IGF CT IGF OPERATIONS AND MAINTENANCE (O&M) O&M IT SECURITY SUPPORT PRODUCT IMPROVEMENT AND COMMUNICATIONS SERVICES FOR THE NATIONAL OCEANIC",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "CONT_AWD_1605JW22C0011_1605_-NONE-_-NONE-",
+  "recipient": "ALEUT-ODLE TRAINING AND DEVELOPMENT JV 2, LLC",
+  "amount": 45282951.57,
+  "agency": "Department of Labor",
+  "sub_agency": "Office of the Assistant Secretary for Administration and Management",
+  "desc": "BASE AWARD FOR OPERATION OF THE CARRASCO JOB CORPS CENTER WITH OUTREACH AND ADMISSIONS AND CAREER TRANSITION SERVICES.",
+  "date": "2022-06-23"
+ },
+ {
+  "id": "CONT_AWD_47QFLA20F0281_4732_47QFLA20D0014_4732",
+  "recipient": "L3 TECHNOLOGIES, INC.",
+  "amount": 38959902.29,
+  "agency": "General Services Administration",
+  "sub_agency": "Federal Acquisition Service",
+  "desc": "L3 SOLE SOURCE IDIQ TO3 USSOCOM SATELLITE COMMUNICATIONS",
+  "date": "2020-09-21"
+ },
+ {
+  "id": "CONT_AWD_2031JW21F00072_2046_GS33F001HA_4732",
+  "recipient": "BGRS RELOCATION INC",
+  "amount": 38169461.41,
+  "agency": "Department of the Treasury",
+  "sub_agency": "Office of the Comptroller of the Currency",
+  "desc": "RELOCATION AND MOVING SERVICES",
+  "date": "2021-04-01"
+ },
+ {
+  "id": "CONT_AWD_693KA725C00008_6920_-NONE-_-NONE-",
+  "recipient": "SERCO INC",
+  "amount": 37084126.28,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "THE FCT CONTRACT ENCOMPASSES THE SCOPE OF ATC SERVICES AND ASSOCIATED SUPPORT SERVICES REQUIRED FOR THE DAY-TO-DAY OPERATION OF FCTS AS DEFI",
+  "date": "2024-11-27"
+ },
+ {
+  "id": "CONT_AWD_75FCMC26F0101_7530_75FCMC25DJ007_7530",
+  "recipient": "IPG DXTRA, INC.",
+  "amount": 36999987.37,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Centers for Medicare and Medicaid Services",
+  "desc": "THE PURPOSE OF THIS TASK ORDER IS TO PROVIDE PUBLIC EDUCATION AND OUTREACH CAMPAIGNS ACROSS THE FEDERALLY FACILITATED MARKETPLACE (FFM) STAT",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "CONT_AWD_05GA0A23F0032_0559_GS00Q17NSD3006_4732",
+  "recipient": "LUMEN TECHNOLOGIES GOVERNMENT SOLUTIONS, INC.",
+  "amount": 34259346.71,
+  "agency": "Government Accountability Office",
+  "sub_agency": "GAO, Except Comptroller General",
+  "desc": "THE PURPOSE OF THIS ACTION IS TO ESTABLISH A TASK ORDER AGAINST GSAS ENTERPRISE INFRASTRUCTURE SOLUTIONS (EIS) CONTRACT WITH A BASE AND EIGH",
+  "date": "2023-08-01"
+ },
+ {
+  "id": "CONT_AWD_1202SA24K9124_12C2_1202SA23T9100_12C2",
+  "recipient": "10 TANKER AIR CARRIER, LLC",
+  "amount": 33191883.93,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "10 TANKER - AIRTANKER MATCO 2023 EXCLUSIVE USE TASK ORDER 120 DAY MAP",
+  "date": "2024-05-17"
+ },
+ {
+  "id": "CONT_AWD_75D30123F00001_7523_75D30123D16071_7523",
+  "recipient": "RESEARCH TRIANGLE INSTITUTE",
+  "amount": 31587162.57,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Centers for Disease Control and Prevention",
+  "desc": "NHANES DATA COLLECTION",
+  "date": "2023-02-27"
+ },
+ {
+  "id": "CONT_AWD_36C77625C0120_3600_-NONE-_-NONE-",
+  "recipient": "FOX-ESA JV LLC",
+  "amount": 31464927.0,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "THE CONTRACTOR SHALL PROVIDE ALL LABOR, PROJECT MANAGEMENT, MATERIALS, TOOLS, SUPPLIES, AND EQUIPMENT AS REQUIRED BY THE DRAWINGS AND SPECIF",
+  "date": "2025-09-19"
+ },
+ {
+  "id": "CONT_AWD_36C25626C0046_3600_-NONE-_-NONE-",
+  "recipient": "BLUE CORD DESIGN AND CONSTRUCTION, LLC",
+  "amount": 30995241.0,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "564-19-403 RENOVATE STERILE PROCESSING SERVICES (SPS), FAYETTEVILLE, AR 72703. POP 720 CALENDAR DAYS FROM NTP. EO 14398",
+  "date": "2026-06-30"
+ },
+ {
+  "id": "CONT_AWD_20341425F00022_2036_75N98120D00076_7529",
+  "recipient": "PLURIBUS DIGITAL, INC",
+  "amount": 30520055.18,
+  "agency": "Department of the Treasury",
+  "sub_agency": "Bureau of the Fiscal Service",
+  "desc": "DEVELOPMENT AND OPERATIONAL SOFTWARE DEVELOPMENT AND MAINTENANCE SERVICES",
+  "date": "2025-05-22"
+ },
+ {
+  "id": "CONT_AWD_36C10B25F0083_3600_47QTCA22D0076_4732",
+  "recipient": "MIND COMPUTING, INC.",
+  "amount": 30035664.31,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "DATA ACCESS SERVICES SYSTEM SOFTWARE SERVICES (DAS4)",
+  "date": "2025-04-21"
+ },
+ {
+  "id": "CONT_AWD_HHSO100201600021C_7505_-NONE-_-NONE-",
+  "recipient": "MAPP BIOPHARMACEUTICAL, INC.",
+  "amount": 28870287.64,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Office of Assistant Secretary for Preparedness and Response",
+  "desc": "MAPP EAP - IGF::CL::IGF FOR OTHER FUNCTIONSEXPANDED ACCESS PROTOCOL FOR ZMAPP",
+  "date": "2016-06-27"
+ },
+ {
+  "id": "CONT_AWD_47QFMA25F0009_4732_47QFCA22D0495_4732",
+  "recipient": "KBR WYLE SERVICES, LLC",
+  "amount": 27006368.29,
+  "agency": "General Services Administration",
+  "sub_agency": "Federal Acquisition Service",
+  "desc": "AERIAL COMBAT DEFENSE CAPABILITIES  ACDC",
+  "date": "2025-05-16"
+ },
+ {
+  "id": "CONT_AWD_140P2024C0070_1443_-NONE-_-NONE-",
+  "recipient": "PAULSEN CONSTRUCTION, LLC",
+  "amount": 26447846.1,
+  "agency": "Department of the Interior",
+  "sub_agency": "National Park Service",
+  "desc": "YELL 312116 LAUREL DORM REHABILITATION",
+  "date": "2024-09-18"
+ },
+ {
+  "id": "CONT_AWD_75D30126F20900_7523_47QTCA22A0004_4732",
+  "recipient": "DELL FEDERAL SYSTEMS L.P",
+  "amount": 26415766.68,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Centers for Disease Control and Prevention",
+  "desc": "MICROSOFT ENTERPRISE LICENSE AGREEMENT (ELA)",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "CONT_AWD_75FCMC26F0086_7530_GS35F356DA_4732",
+  "recipient": "BELLESE TECHNOLOGIES, LLC",
+  "amount": 25999705.62,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Centers for Medicare and Medicaid Services",
+  "desc": "HOSPITAL QUALITY REPORTING (HQR) II BRIDGE",
+  "date": "2026-05-07"
+ },
+ {
+  "id": "CONT_AWD_697DCK19F00179_6920_697DCK19D00002_6920",
+  "recipient": "JACOBS ENGINEERING GROUP INC.",
+  "amount": 25425646.5,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "WARRENTON VA DESIGN PROJECT",
+  "date": "2019-09-24"
+ },
+ {
+  "id": "CONT_AWD_140P2025C0017_1443_-NONE-_-NONE-",
+  "recipient": "PAULSEN CONSTRUCTION, LLC",
+  "amount": 25316654.0,
+  "agency": "Department of the Interior",
+  "sub_agency": "National Park Service",
+  "desc": "YELL 307127 - REHABILITATE EXTERIORS OF HISTORIC FT. YELLOWSTONE BUILDINGS, YELLOWSTONE NATIONAL PARK",
+  "date": "2025-04-14"
+ },
+ {
+  "id": "CONT_AWD_1605C223C0033_1605_-NONE-_-NONE-",
+  "recipient": "UAW- LABOR EMPLOYMENT AND TRAINING CORPORATION",
+  "amount": 25159572.16,
+  "agency": "Department of Labor",
+  "sub_agency": "Office of the Assistant Secretary for Administration and Management",
+  "desc": "OJC NTC AUTOMOTIVE TRADES 2023",
+  "date": "2023-07-31"
+ },
+ {
+  "id": "CONT_AWD_28321322FDX030142_2800_47QTCA19D00MP_4732",
+  "recipient": "FOUR POINTS TECHNOLOGY, L.L.C.",
+  "amount": 24700555.97,
+  "agency": "Social Security Administration",
+  "sub_agency": "Social Security Administration",
+  "desc": "INTERSYSTEMS HEALTHSHARE SOFTWARE AND SUPPORT SERVICES",
+  "date": "2022-07-18"
+ },
+ {
+  "id": "CONT_AWD_15B10626F00000037_1540_36W79720D0001_3600",
+  "recipient": "MCKESSON CORPORATION",
+  "amount": 24367886.14,
+  "agency": "Department of Justice",
+  "sub_agency": "Federal Prison System / Bureau of Prisons",
+  "desc": "MCKESSON: NON-CONTROLLED MEDICATION DOS: OCTOBER 1, 2025 THRU DECEMBER 31, 2025.",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "CONT_AWD_15M10423FA4700085_1544_47QRAA18D00C0_4732",
+  "recipient": "SALIENSE CONSULTING LLC",
+  "amount": 24006239.51,
+  "agency": "Department of Justice",
+  "sub_agency": "U.S. Marshals Service",
+  "desc": "IT SECURITY SUPPORT SERVICES IAW SALIENCE CONSULTING, LLC  PROPOSAL DATED 06/20/2023  COR: TRENT GADD EMAIL: TRENT.GADD@USDOJ.GOV PHONE: 703",
+  "date": "2023-09-30"
+ },
+ {
+  "id": "CONT_AWD_15JPSS21F00000549_1501_15JPSS20D00000368_1501",
+  "recipient": "CACI, LLC - COMMERCIAL",
+  "amount": 23801122.87,
+  "agency": "Department of Justice",
+  "sub_agency": "Offices, Boards and Divisions",
+  "desc": "MEGA5 AUTOMATED LITIGATION SUPPORT SERVICES",
+  "date": "2021-06-01"
+ },
+ {
+  "id": "CONT_AWD_140D0424F0755_1406_140D0424D0090_1406",
+  "recipient": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+  "amount": 23168018.47,
+  "agency": "Department of the Interior",
+  "sub_agency": "Departmental Offices",
+  "desc": "THE DEPARTMENT OF THE INTERIOR (DOI) HAS PREPARED THIS DAY ONE USE CASE TO SUPPORT THE OFFICE OF THE CHIEF INFORMATION OFFICER (OCIO), OFFIC",
+  "date": "2024-06-12"
+ },
+ {
+  "id": "CONT_AWD_75N93023C00004_7529_-NONE-_-NONE-",
+  "recipient": "SYSTEX, INC",
+  "amount": 22631498.87,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "National Institutes of Health",
+  "desc": "CLINICAL RESEARCH DATA MANAGEMENT AND SYSTEMS SUPPORT",
+  "date": "2022-12-01"
+ },
+ {
+  "id": "CONT_AWD_47QFSA24F0030_4732_NNG15SC51B_8000",
+  "recipient": "TRIBALCO LLC",
+  "amount": 22481552.21,
+  "agency": "General Services Administration",
+  "sub_agency": "Federal Acquisition Service",
+  "desc": "AFCENT ELMR SUSTAINMENT SERVICES",
+  "date": "2024-03-25"
+ },
+ {
+  "id": "CONT_AWD_80MSFC25F0020_8000_80SSC025D0001_8000",
+  "recipient": "NOVA SPACE SOLUTIONS, LLC",
+  "amount": 22113588.05,
+  "agency": "National Aeronautics and Space Administration",
+  "sub_agency": "National Aeronautics and Space Administration",
+  "desc": "THIS COSMIC TASK ORDER IS CREATED FOR FUNDING OF THE COSMIC CORE SERVICES FOR COST PRICE INCENTIVE FEE CLIN 1004 OF 80SSC025D0001.",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "CONT_AWD_693KA726F00013_6920_693KA726D00003_6920",
+  "recipient": "PERATON INC.",
+  "amount": 21789259.0,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "THIS DELIVERY ORDER IS FOR THE EIDS NEEDS PACKAGE. ALL OTHER TERMS AND CONDITIONS OF THE CONTRACT REMAIN UNCHANGED AND IN FULL EFFECT.",
+  "date": "2026-01-09"
+ },
+ {
+  "id": "CONT_AWD_47PD0123C0004_4740_-NONE-_-NONE-",
+  "recipient": "BURCHICK CONSTRUCTION CO INC",
+  "amount": 21100363.29,
+  "agency": "General Services Administration",
+  "sub_agency": "Public Buildings Service",
+  "desc": "THIS IS A CONSTRUCTION CONTRACT BEING PERFORMED AT THE WEIS FED COURTHOUSE IN PITTSBURGH, PA.  THE PURPOSE OF THE CONTRACT IS TO CONSOLIDATE",
+  "date": "2023-04-05"
+ },
+ {
+  "id": "CONT_AWD_75N92023F00004_7529_75N92022D00010_7529",
+  "recipient": "NATIONAL COLLEGIATE INVENTORS & INNOVATORS ALLIANCE, INC.",
+  "amount": 21044219.58,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "National Institutes of Health",
+  "desc": "RAPID ACCELERATION OF DIAGNOSTICS (RADX) CLINICAL EVALUATION SERVICES -TASK ORDER 06",
+  "date": "2023-06-01"
+ },
+ {
+  "id": "CONT_AWD_19AQMM23C0072_1900_-NONE-_-NONE-",
+  "recipient": "G4S ARGENTINA JV",
+  "amount": 20572741.72,
+  "agency": "Department of State",
+  "sub_agency": "Department of State",
+  "desc": "BUENOS AIRES, ARGENTINA,  LOCAL GUARD PROGRAM",
+  "date": "2023-08-01"
+ },
+ {
+  "id": "CONT_AWD_80NM0023F0003_8000_80NM0018D0004_8000",
+  "recipient": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+  "amount": 20266155.0,
+  "agency": "National Aeronautics and Space Administration",
+  "sub_agency": "National Aeronautics and Space Administration",
+  "desc": "AIRBORNE VISIBLE/INFRARED IMAGING SPECTROMETER (AVIRIS) FOR NASA SCIENCE RESEARCH AND APPLICATIONS RESEARCH, FY23 TO FY32 (83-202669)",
+  "date": "2022-11-21"
+ },
+ {
+  "id": "CONT_AWD_70FA2021F00000072_7022_47QRAD20D1081_4732",
+  "recipient": "CADMUS CONCOURSE JV LLC",
+  "amount": 20226665.14,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Federal Emergency Management Agency",
+  "desc": "NPAD PROGAMATIC SUPPORT SERVICES",
+  "date": "2021-09-01"
+ },
+ {
+  "id": "CONT_AWD_693KA826F00054_6920_693KA726D00003_6920",
+  "recipient": "PERATON INC.",
+  "amount": 20047063.42,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "THIS DELIVERY ORDER IS FOR THE COMMUNICATION WORKSTREAM VOICE SWITCH NEEDS PACKAGE ON THE BNATCS IAC.",
+  "date": "2026-01-09"
+ },
+ {
+  "id": "CONT_AWD_70B04C26F00000246_7014_47QTCK18D0008_4732",
+  "recipient": "LEIDOS, INC.",
+  "amount": 19985682.95,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Customs and Border Protection",
+  "desc": "CBP CYBER SECURITY OPERATIONS CENTER (SOC) BRIDGE II. AWARDED SUBJECT TO AVAILABILITY OF FUNDS, PERFORMANCE IN ADVANCE OF FUNDING.",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "CONT_AWD_47QFSA21F0112_4732_47QTCK18D0003_4732",
+  "recipient": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+  "amount": 19923579.25,
+  "agency": "General Services Administration",
+  "sub_agency": "Federal Acquisition Service",
+  "desc": "AFNORTH IT SUPPORT",
+  "date": "2021-09-01"
+ },
+ {
+  "id": "CONT_AWD_70RFP125FRE400036_7001_70RFP123DE4000002_7001",
+  "recipient": "PARAGON SYSTEMS INC",
+  "amount": 19250664.57,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Office of Procurement Operations",
+  "desc": "PROTECTIVE SECURITY OFFICER (PSO) SERVICES THROUGHOUT NORTH FLORIDA",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "CONT_AWD_75D30125F20381_7523_47QTCK18D0029_4732",
+  "recipient": "DELOITTE CONSULTING LLP",
+  "amount": 18588552.83,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Centers for Disease Control and Prevention",
+  "desc": "NCEZID IT SERVICES 3.0",
+  "date": "2024-12-03"
+ },
+ {
+  "id": "CONT_AWD_693KA819F00354_6920_DTFAWA17D00015_6920",
+  "recipient": "LS TECHNOLOGIES LLC",
+  "amount": 18436114.95,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "OTHER FUNCTIONS",
+  "date": "2019-08-01"
+ },
+ {
+  "id": "CONT_AWD_1605JW24C0005_1605_-NONE-_-NONE-",
+  "recipient": "CHEROKEE NATION",
+  "amount": 18369718.66,
+  "agency": "Department of Labor",
+  "sub_agency": "Office of the Assistant Secretary for Administration and Management",
+  "desc": "AWARD FOR THE TALKING LEAVES JOB CORPS CENTER WITH OUTREACH AND ADMISSIONS AND CAREER TRANSITION SERVICES",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "CONT_AWD_36C24123C0087_3600_-NONE-_-NONE-",
+  "recipient": "ENGELBERTH CONSTRUCTION, INC.",
+  "amount": 18200938.14,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "405-13-104 RENOVATE INPATIENT WARD",
+  "date": "2023-08-23"
+ },
+ {
+  "id": "CONT_AWD_36C24621C0079_3600_-NONE-_-NONE-",
+  "recipient": "WHITE STONE SPECTRUM HEALTHCARE RESOURCES LLC",
+  "amount": 18112864.34,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "ER PHYSICIAN STAFFING SERVICES",
+  "date": "2021-09-30"
+ },
+ {
+  "id": "CONT_AWD_70RFP426FRE500001_7001_70RFP424DE5000002_7001",
+  "recipient": "PINNACLE PROTECTION PARTNERS, LLC",
+  "amount": 17864644.93,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Office of Procurement Operations",
+  "desc": "ARMED PROTECTIVE SECURITY OFFICER SERVICES THROUGHOUT THE STATE OF OHIO",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "CONT_AWD_140P2021C0098_1443_-NONE-_-NONE-",
+  "recipient": "PACIFIC TECH CONSTRUCTION INC",
+  "amount": 17645054.87,
+  "agency": "Department of the Interior",
+  "sub_agency": "National Park Service",
+  "desc": "REHABILITATION HISTORIC MAIN PARADE GROUND BARRACKS AND CROSSROADS PARKING LOT, FORT VANCOUVER NATIONAL HISTORIC SITE, VANCOUVER, WA",
+  "date": "2021-10-01"
+ },
+ {
+  "id": "CONT_AWD_1202SA25K9217_12C2_1202SA25T9231_12C2",
+  "recipient": "ROTAK LLC",
+  "amount": 17609880.6,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "ROTAK - T1 EU FOR MCCALL, ID #2",
+  "date": "2025-03-25"
+ },
+ {
+  "id": "CONT_AWD_70RFP425FRE500023_7001_70RFP424DE5000001_7001",
+  "recipient": "SIMMONS & GOLDEN SECURITY LLC",
+  "amount": 17456871.4,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Office of Procurement Operations",
+  "desc": "ARMED PROTECTIVE SECURITY OFFICER (PSO) SERVICES THROUGHOUT THE STATE OF INDIANA",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "CONT_AWD_1202SA25K9221_12C2_1202SA25T9203_12C2",
+  "recipient": "BILLINGS FLYING SERVICE LLC",
+  "amount": 17273880.6,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "BILLINGS - T1 EU FOR GRANGEVILLE, ID #3",
+  "date": "2025-05-06"
+ },
+ {
+  "id": "CONT_AWD_HHSO100201100008C_7505_-NONE-_-NONE-",
+  "recipient": "HEYLTEX CORPORATION",
+  "amount": 17226137.21,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Office of Assistant Secretary for Preparedness and Response",
+  "desc": "HEYLTEX CORPORATION BASE YEAR FUNDING FOR R D OF PEDIATRIC PRUSSIAN BLUE  CAN 1992002",
+  "date": "2011-02-24"
+ },
+ {
+  "id": "CONT_AWD_70B04C23F00000043_7014_GS00F178DA_4732",
+  "recipient": "LEXISNEXIS SPECIAL SERVICES INC",
+  "amount": 17043639.27,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Customs and Border Protection",
+  "desc": "THIS IS FOR ACCESS TO THE LEXISNEXIS LAW ENFORCEMENT INVESTIGATIVE DATABASE.",
+  "date": "2022-12-01"
+ },
+ {
+  "id": "CONT_AWD_47PH5426C0019_4740_-NONE-_-NONE-",
+  "recipient": "KIEWIT BUILDING GROUP INC.",
+  "amount": 15301010.0,
+  "agency": "General Services Administration",
+  "sub_agency": "Public Buildings Service",
+  "desc": "EEOB CONSTRUCTION SERVICES FOR PROJECT B - ELECTRICAL UPGRADE IN WASHINGTON, DC",
+  "date": "2026-07-06"
+ },
+ {
+  "id": "CONT_AWD_47PN1123F0014_4740_47PD0322A0003_4740",
+  "recipient": "ELECTRONIC METROLOGY LABORATORY, LLC",
+  "amount": 15196710.36,
+  "agency": "General Services Administration",
+  "sub_agency": "Public Buildings Service",
+  "desc": "O&M SERVICES",
+  "date": "2023-08-01"
+ },
+ {
+  "id": "CONT_AWD_36C77026N0011_3600_36C77025D0002_3600",
+  "recipient": "CITADEL FEDERAL SOLUTIONS LLC",
+  "amount": 15127364.7,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "STAFFING FOR PHARMACISTS, PHARMACY TECHNICIANS, SHIPPER/PACKERS, AND FACILITY ADMINISTRATORS.",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "CONT_AWD_70RSAT24C00000001_7001_-NONE-_-NONE-",
+  "recipient": "MERRICK & COMPANY",
+  "amount": 14924330.77,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Office of Procurement Operations",
+  "desc": "CONTRACT AWARD FOR THE PLUM ISLAND ANIMAL DISEASE CENTER (PIADC) PLUM ISLAND CLOSURE AND SUPPORT (PICS) PROGRAM SCIENTIFIC, TECHNICAL AND EN",
+  "date": "2024-01-08"
+ },
+ {
+  "id": "CONT_AWD_70B04C26C00000013_7014_-NONE-_-NONE-",
+  "recipient": "CHENEGA ADVANCED SOLUTIONS AND INTELLIGENCE SERVICES, LLC",
+  "amount": 14685043.32,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Customs and Border Protection",
+  "desc": "CBP INTEGRATED LOGISTICS SUPPORT (ILS) SERVICES. PERFORMANCE AND OBLIGATION IN ADVANCE OF FUNDS. SBA REQUIREMENT NUMBER UL1757366358E",
+  "date": "2026-04-03"
+ },
+ {
+  "id": "CONT_AWD_47QFMA26F0003_4732_47QFMA24A0012_4732",
+  "recipient": "PERATON INC.",
+  "amount": 14605669.14,
+  "agency": "General Services Administration",
+  "sub_agency": "Federal Acquisition Service",
+  "desc": "DEHRADS ORDER 5 DEFENSE TRAVEL SYSTEM (DTS) RECOMPETE",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "CONT_AWD_47QFCA24F0022_4732_47QFCA19D0005_4732",
+  "recipient": "VANA SOLUTIONS LLC",
+  "amount": 14538122.86,
+  "agency": "General Services Administration",
+  "sub_agency": "Federal Acquisition Service",
+  "desc": "THIS IS A SMALL BUSINESS INNOVATION RESEARCH III CONTRACT IN SUPPORT OF D1SCOVERY DATA SERVICES STEMMING FROM PREVIOUS SMALL BUSINESS INNOVA",
+  "date": "2024-05-24"
+ },
+ {
+  "id": "CONT_AWD_2033H622C00003_2036_-NONE-_-NONE-",
+  "recipient": "FIS CAPITAL MARKETS US LLC",
+  "amount": 14487139.33,
+  "agency": "Department of the Treasury",
+  "sub_agency": "Bureau of the Fiscal Service",
+  "desc": "FIS INVESTONE LICENSES, MAINTENANCE, AND OPTIONAL ADDITIONAL SERVICES",
+  "date": "2021-10-01"
+ },
+ {
+  "id": "CONT_AWD_140D0422C0052_1406_-NONE-_-NONE-",
+  "recipient": "GREAT HILL SOLUTIONS, LLC",
+  "amount": 14468123.78,
+  "agency": "Department of the Interior",
+  "sub_agency": "Departmental Offices",
+  "desc": "FBCH MEDICAL READINESS",
+  "date": "2022-09-15"
+ },
+ {
+  "id": "CONT_AWD_70B04C19F00000972_7014_GS06Q16BQDS114_4732",
+  "recipient": "NATIVE ENERGY & TECHNOLOGY INC",
+  "amount": 14283088.53,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Customs and Border Protection",
+  "desc": "ENVIRONMENTAL SUPPORT SYSTEMS (ESS) SERVICES",
+  "date": "2019-09-18"
+ },
+ {
+  "id": "CONT_AWD_1202SA24K9217_12C2_1202SA23T9285_12C2",
+  "recipient": "PRECISION, LLC",
+  "amount": 14181092.8,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "HSS MATOC TYPE II FOR EU DURANGO, CO",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "CONT_AWD_693JJ321F000247_6925_693JJ321D000010_6925",
+  "recipient": "LEIDOS, INC.",
+  "amount": 14099045.73,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Highway Administration",
+  "desc": "STOL III: MANAGEMENT, OPERATIONS, AND COMMUNICATIONS (MOC) SUPPORT FOR THE SAXTON TRANSPORTATION OPERATIONS LABORATORY (SAXTON LAB)",
+  "date": "2021-08-21"
+ },
+ {
+  "id": "CONT_AWD_80KSC025F7023_8000_80SSC018D0010_8000",
+  "recipient": "ADVON CORPORATION",
+  "amount": 14045642.0,
+  "agency": "National Aeronautics and Space Administration",
+  "sub_agency": "National Aeronautics and Space Administration",
+  "desc": "UPGRADE MECHANICAL SYSTEMS AT THE COMPONENT REFURBISHMENT AND CHEMICAL ANALYSIS (CRCA) FACILITY CLEANROOM",
+  "date": "2025-09-23"
+ },
+ {
+  "id": "CONT_AWD_89303025FAU400024_8900_47QRAA19D0039_4732",
+  "recipient": "EDGEWATER FEDERAL SOLUTIONS, INC.",
+  "amount": 13804300.76,
+  "agency": "Department of Energy",
+  "sub_agency": "Department of Energy",
+  "desc": "TECHNICAL AND ADMINISTRATIVE SUPPORT RESOURCES TO MAINTAIN THE APPLICATIONS AND INFRASTRUCTURE OF THE OFFICE OF ENVIRONMENT, HEALTH, SAFETY ",
+  "date": "2025-07-16"
+ },
+ {
+  "id": "CONT_AWD_693KA925C00013_6920_-NONE-_-NONE-",
+  "recipient": "AKIMA GLOBAL LOGISTICS, LLC",
+  "amount": 13749338.4,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "ATC CASE MANAGEMENT SUPPORT",
+  "date": "2025-08-20"
+ },
+ {
+  "id": "CONT_AWD_91990022C0062_9100_-NONE-_-NONE-",
+  "recipient": "ANLAR, LLC",
+  "amount": 13502009.41,
+  "agency": "Department of Education",
+  "sub_agency": "Department of Education",
+  "desc": "PDPDCS IS A DISCRETIONARY GRANT PROGRAM ADMINISTERED BY (OSEP) IN THE DEPT. OF ED, IS AIMED AT INCREASING THE SUPPLY OF EFFECTIVE PERSONNEL ",
+  "date": "2022-06-30"
+ },
+ {
+  "id": "CONT_AWD_1202SA24K9222_12C2_1202SA23T9256_12C2",
+  "recipient": "CAPITOL HELICOPTERS, INC.",
+  "amount": 13367313.61,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "TYPE II HSS MATOC EU FOR MORGAN, UT #3",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "CONT_AWD_6933A222F00166N_6938_693JF720G000006_6938",
+  "recipient": "OCEAN SHIPHOLDINGS, INC.",
+  "amount": 12934272.47,
+  "agency": "Department of Transportation",
+  "sub_agency": "Maritime Administration",
+  "desc": "MENDONCA FY22 GAA COST REIMBURSABLES",
+  "date": "2022-08-18"
+ },
+ {
+  "id": "CONT_AWD_36C26124C0042_3600_-NONE-_-NONE-",
+  "recipient": "CAPEX CONSTRUCTION LLC",
+  "amount": 12838493.0,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "IMPROVE SITE ACCESS AND PHYSICAL SECURITY DEFICIENCIES FOR VA FRESNO",
+  "date": "2024-01-23"
+ },
+ {
+  "id": "CONT_AWD_75F40126F19002_7524_75F40125A00015_7524",
+  "recipient": "FOUR POINTS TECHNOLOGY, L.L.C.",
+  "amount": 12810060.0,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Food and Drug Administration",
+  "desc": "AWS TASK ORDER 2 UNDER FDA CLOUD SERVICES BPA FOR ODT",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "CONT_AWD_693KA923F00093_6920_DTFAWA10A00086_6920",
+  "recipient": "CSSI, LLC",
+  "amount": 12743676.19,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "NEW TASK ORDER FOR ATO MISSION SUPPORT SERVICES FOR POLICY AJV-P AND ATO INTERNATIONAL AJV-I",
+  "date": "2023-05-15"
+ },
+ {
+  "id": "CONT_AWD_47QFMA25F0003_4732_47QTCK18D0009_4732",
+  "recipient": "CACI, INC. - FEDERAL",
+  "amount": 12166636.03,
+  "agency": "General Services Administration",
+  "sub_agency": "Federal Acquisition Service",
+  "desc": "OPERATIONAL MEDICINE INFORMATION SYSTEM ARMY OMISA ENGINEERING AND TECHNICAL SUPPORT AWARD",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "CONT_AWD_70US0923F2GSA2225_7009_GS21F096AA_4732",
+  "recipient": "INSPECTION EXPERTS INC",
+  "amount": 12056827.64,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Secret Service",
+  "desc": "SHOOTING RANGE MAINTENANCE CONTRACT",
+  "date": "2023-09-28"
+ },
+ {
+  "id": "CONT_AWD_36C77626N0665_3600_36C77624D0002_3600",
+  "recipient": "DIX-GRA, INC.",
+  "amount": 11984075.97,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "SURVEY OF HEALTHCARE EXPERIENCE OF PATIENTS IDIQ COMPLIANT WITH EO 14398. FULL TEXT INSERTED.",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "CONT_AWD_140D6318F0003_1406_IND17PC00386_1406",
+  "recipient": "MANTECH SRS TECHNOLOGIES, INC.",
+  "amount": 11867692.55,
+  "agency": "Department of the Interior",
+  "sub_agency": "Departmental Offices",
+  "desc": "DARPA STO RADAR AND COMMUNICATIONS TECHNICAL AND ADMINISTRATIVE SUPPORT",
+  "date": "2017-12-15"
+ },
+ {
+  "id": "CONT_AWD_1333BJ22F00280036_1344_47QTCH18D0070_4732",
+  "recipient": "ZERMOUNT, INC.",
+  "amount": 11812693.71,
+  "agency": "Department of Commerce",
+  "sub_agency": "U.S. Patent and Trademark Office",
+  "desc": "FY22 CYBERSECURITY ARCHITECTURE AND ENGINEERING CONTRACT SERVICES",
+  "date": "2022-08-08"
+ },
+ {
+  "id": "CONT_AWD_15A00024CAQA00154_1560_-NONE-_-NONE-",
+  "recipient": "GLOBAL SYSTEMS ENGINEERING, LLC",
+  "amount": 11805171.14,
+  "agency": "Department of Justice",
+  "sub_agency": "Bureau of Alcohol, Tobacco, Firearms and Explosives Acquisition and Property Management Division",
+  "desc": "TO PROVIDE CONTRACTOR SUPPORT SERVICES RELATED TO PLANNING, LOGISTICS, TRAINING AND EMERGENCY RESPONSE S FOR THE EMERGENCY SUPPORT SECTION.",
+  "date": "2024-07-03"
+ },
+ {
+  "id": "CONT_AWD_36C77621C0058_3600_-NONE-_-NONE-",
+  "recipient": "RB CONSTRUCTION COMPANY",
+  "amount": 11763417.99,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "THE CONTRACTOR SHALL PROVIDE ALL TOOLS, EQUIPMENT, MATERIALS, LABOR, SUPERVISION, PERSONNEL, AND SHALL DO ALL THINGS NECESSARY THAT WILL RES",
+  "date": "2021-06-17"
+ },
+ {
+  "id": "CONT_AWD_70RTAC24FR0000108_7001_GS35F353DA_4732",
+  "recipient": "DELVIOM LLC",
+  "amount": 11461613.49,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Office of Procurement Operations",
+  "desc": "CYBERSECURITY GOVERNANCE & COMPLIANCE SERVICES",
+  "date": "2024-09-30"
+ },
+ {
+  "id": "CONT_AWD_75N98023F00162_7529_GS00F008DA_4732",
+  "recipient": "BOOZ ALLEN HAMILTON INC",
+  "amount": 11341446.24,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "National Institutes of Health",
+  "desc": "OFFICE OF RESEARCH ON WOMEN'S HEALTH, COMMUNICATIONS, OUTREACH, AND LOGISTICS SUPPORT",
+  "date": "2023-07-25"
+ },
+ {
+  "id": "CONT_AWD_1202SC26K2601_12C2_1202SC22T2602_12C2",
+  "recipient": "PERIMETER SOLUTIONS LP",
+  "amount": 11328521.21,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "RETARDANT ON-DEMAND BPA PERIMETER FY26",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "CONT_AWD_80NSSC25C0423_8000_-NONE-_-NONE-",
+  "recipient": "MOTIV SPACE SYSTEMS, INC.",
+  "amount": 11283367.0,
+  "agency": "National Aeronautics and Space Administration",
+  "sub_agency": "National Aeronautics and Space Administration",
+  "desc": "PHASE III - FLY FOUNDATIONAL ROBOTS (FFR) DEVELOPMENT AND DEMONSTRATION MISSION",
+  "date": "2025-06-25"
+ },
+ {
+  "id": "CONT_AWD_12314421F0413_1205_12760420A0007_12C2",
+  "recipient": "CREATIVE SYSTEMS AND CONSULTING L.L.C.",
+  "amount": 11277280.81,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Office of the Chief Financial Officer",
+  "desc": "CHERRY IPT - SECURITY ENGINEERING - SECURITY REVIEW OF PROPOSED APPLICATION ARCHITECTURE - SUPPORT APPLICATION DESIGN, TO HELP ENSURE SECURI",
+  "date": "2021-07-14"
+ },
+ {
+  "id": "CONT_AWD_693KA824C00005_6920_-NONE-_-NONE-",
+  "recipient": "ZETA ASSOCIATES INC",
+  "amount": 11247561.69,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "GNSS AWARD",
+  "date": "2024-04-29"
+ },
+ {
+  "id": "CONT_AWD_89233123FNA400554_8900_NNG15SD26B_8000",
+  "recipient": "THUNDERCAT TECHNOLOGY, LLC",
+  "amount": 11186625.89,
+  "agency": "Department of Energy",
+  "sub_agency": "Department of Energy",
+  "desc": "TENABLE LICENSING",
+  "date": "2023-09-19"
+ },
+ {
+  "id": "CONT_AWD_697DCK23C00146_6920_-NONE-_-NONE-",
+  "recipient": "GUARDIAN CONSTRUCTION, INC.",
+  "amount": 10943991.0,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "DIA ATCT MODERNIZATION",
+  "date": "2023-04-12"
+ },
+ {
+  "id": "CONT_AWD_1202SA24K9405_12C2_1202SA23T9405_12C2",
+  "recipient": "C.C. CALZONE, LLC",
+  "amount": 10666242.95,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "PROVIDE AIRCRAFT AND PILOT SERVICES FOR ATGS MISSION, FIRE",
+  "date": "2024-04-08"
+ },
+ {
+  "id": "CONT_AWD_70FA3125F00000010_7022_47QTCK18D0008_4732",
+  "recipient": "LEIDOS, INC.",
+  "amount": 10502574.12,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Federal Emergency Management Agency",
+  "desc": "THE PURPOSE OF THIS TASK ORDER IS TO PROVIDE SUPPORT SERVICES FOR FEMA SECURITY OPERATIONS CENTER.",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "CONT_AWD_75N93021C00022_7529_-NONE-_-NONE-",
+  "recipient": "SPERO THERAPEUTICS, INC.",
+  "amount": 10501521.27,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "National Institutes of Health",
+  "desc": "TO ADVANCE CLINICAL AND NON-CLINICAL DEVELOPMENT OF AN ANTIBIOTIC CANDIDATE.",
+  "date": "2021-05-17"
+ },
+ {
+  "id": "CONT_AWD_140D6318F0005_1406_IND17PC00386_1406",
+  "recipient": "MANTECH SRS TECHNOLOGIES, INC.",
+  "amount": 10320575.89,
+  "agency": "Department of the Interior",
+  "sub_agency": "Departmental Offices",
+  "desc": "DARPA STO MARITIME TECHNICAL AND ADMINISTRATIVE SUPPORT",
+  "date": "2017-11-30"
+ },
+ {
+  "id": "CONT_AWD_SAQMMA15F0999_1900_GS33FAA009_4732",
+  "recipient": "CW GOVERNMENT TRAVEL INC",
+  "amount": 10239437.51,
+  "agency": "Department of State",
+  "sub_agency": "Department of State",
+  "desc": "ETS2 TRAVEL SERVICES  IGF::OT::IGF",
+  "date": "2015-08-06"
+ },
+ {
+  "id": "CONT_AWD_88310323C00001_8800_-NONE-_-NONE-",
+  "recipient": "SOUTHERN METHODIST UNIVERSITY",
+  "amount": 10172975.8,
+  "agency": "National Archives and Records Administration",
+  "sub_agency": "National Archives and Records Administration",
+  "desc": "NEW CONTRACT FOR THE GUARD SERVICES AT THE G.W. BUSH LIBRARY.",
+  "date": "2022-10-01"
+ },
+ {
+  "id": "CONT_AWD_273FCC23F0121_2700_47QTCH18D0006_4732",
+  "recipient": "OASYS INTERNATIONAL LLC",
+  "amount": 10159791.01,
+  "agency": "Federal Communications Commission",
+  "sub_agency": "Federal Communications Commission",
+  "desc": "THE REQUIREMENT IS FOR COMMERCIAL, NON-PERSONAL SERVICES TO PERFORM ENTERPRISE INFORMATION TECHNOLOGY (IT) TESTING SUPPORT.",
+  "date": "2023-08-08"
+ },
+ {
+  "id": "CONT_AWD_89603021F0002_8960_47QTCA18D005P_4732",
+  "recipient": "IMPYRIAN LLC",
+  "amount": 10039343.01,
+  "agency": "Department of Energy",
+  "sub_agency": "Federal Energy Regulatory Commission",
+  "desc": "EPMO - FERC IT PROJECT MANAGEMENT",
+  "date": "2020-11-16"
+ },
+ {
+  "id": "CONT_AWD_80SSC026F0003_8000_80KSC026D0002_8000",
+  "recipient": "AIR PRODUCTS AND CHEMICALS, INC",
+  "amount": 9875197.02,
+  "agency": "National Aeronautics and Space Administration",
+  "sub_agency": "National Aeronautics and Space Administration",
+  "desc": "SSC DELIVERY ORDER (DO) FOR LIQUID HYDROGEN (LH)",
+  "date": "2025-12-12"
+ },
+ {
+  "id": "CONT_AWD_1202SA25K9228_12C2_1202SA25T9226_12C2",
+  "recipient": "ORBIC AIR, LLC",
+  "amount": 9779518.2,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "ORBIC AIR - T1 EU FOR FRESNO, CA",
+  "date": "2025-05-06"
+ },
+ {
+  "id": "CONT_AWD_70Z08726CMISC0003_7008_-NONE-_-NONE-",
+  "recipient": "ORION CONSTRUCTION, INC.",
+  "amount": 9757169.0,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Coast Guard",
+  "desc": "AWARD CONSTRUCTION OF NEW USCG PERSONNEL HOUSING SEWARD, AK",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "CONT_AWD_140R4025C0010_1425_-NONE-_-NONE-",
+  "recipient": "WCA CONSTRUCTION, LLC",
+  "amount": 9741425.43,
+  "agency": "Department of the Interior",
+  "sub_agency": "Bureau of Reclamation",
+  "desc": "NGWSP REACH 1 PIPELINE REPAIRS",
+  "date": "2025-06-24"
+ },
+ {
+  "id": "CONT_AWD_75D30124C19477_7523_-NONE-_-NONE-",
+  "recipient": "TANAQ SUPPORT SERVICES, LLC",
+  "amount": 9707566.94,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Centers for Disease Control and Prevention",
+  "desc": "ORR IRO IT SERVICES",
+  "date": "2024-08-27"
+ },
+ {
+  "id": "CONT_AWD_6933A226F00112N_6938_693JF725D000033_6938",
+  "recipient": "SUNRISE VESSEL OPERATIONS LLC",
+  "amount": 9706659.0,
+  "agency": "Department of Transportation",
+  "sub_agency": "Maritime Administration",
+  "desc": "CAPE WRATH FY26 REPAIRS D SVO-WRA26-1005D",
+  "date": "2026-03-05"
+ },
+ {
+  "id": "CONT_AWD_123J1426C0881_12K2_-NONE-_-NONE-",
+  "recipient": "DAKOTA PURE MEATS, LLC",
+  "amount": 9644000.0,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Agricultural Marketing Service",
+  "desc": "COMMODITIES FOR USG FOOD DONATIONS: 2000011224/4100033949/BISON GROUND LEAN FRZ PKG-40/1 LB,BISON STEW MEAT FRZ PKG-20/2 LB",
+  "date": "2026-04-08"
+ },
+ {
+  "id": "CONT_AWD_75FCMC24F0131_7530_75FCMC19D0091_7530",
+  "recipient": "MATHEMATICA INC.",
+  "amount": 9637185.46,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Centers for Medicare and Medicaid Services",
+  "desc": "TECHNICAL ASSISTANCE TO SUPPORT STATE EFFORTS TO INTEGRATE CARE FOR DUAL ELIGIBLE INDIVIDUALS",
+  "date": "2024-07-12"
+ },
+ {
+  "id": "CONT_AWD_NNC16JB04T_8000_NNC16CA11C_8000",
+  "recipient": "ALCYON TECHNICAL SERVICES (ATS) JV, LLC",
+  "amount": 9511600.86,
+  "agency": "National Aeronautics and Space Administration",
+  "sub_agency": "National Aeronautics and Space Administration",
+  "desc": "IGF::OT::IGF  - TECHNICAL INFORMATION, ADMINISTRATIVE, AND LOGISTICS SERVICES (TIALS 2) TO SUPPORT THE INSTITUTIONAL NEEDS OF NASA'S GLENN R",
+  "date": "2015-11-04"
+ },
+ {
+  "id": "CONT_AWD_75N92025F00001_7529_75N92023D00011_7529",
+  "recipient": "NATIONAL JEWISH HEALTH",
+  "amount": 9292344.0,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "National Institutes of Health",
+  "desc": "COPD GENE - GENETIC EPIDEMIOLOGY OF COPD - TASK AREA A: YEAR 3 - AUGUST 10, 2025 - AUGUST 9, 2026",
+  "date": "2025-08-10"
+ },
+ {
+  "id": "CONT_AWD_70RFP126FRE200005_7001_70RFP125DE2000004_7001",
+  "recipient": "ALANTE SECURITY GROUP, INC",
+  "amount": 9188734.06,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Office of Procurement Operations",
+  "desc": "PROTECTIVE SECURITY OFFICER SERVICES THROUGHOUT QUEENS, NY - NEW TASK ORDER",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "CONT_AWD_36C77626P0034_3600_-NONE-_-NONE-",
+  "recipient": "RECEIVIA, INC.",
+  "amount": 9160199.23,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "THIRD PARTY BILLING OF OUTPATIENT CLAIMS TO INSURANCE CARRIERS",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "CONT_AWD_15BRRC26F00000033_1540_15BRRC23D00000021_1540",
+  "recipient": "THE SALVATION ARMY",
+  "amount": 9101015.0,
+  "agency": "Department of Justice",
+  "sub_agency": "Federal Prison System / Bureau of Prisons",
+  "desc": "POP 10/01/25 - 09/30/26",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "CONT_AWD_140D6318F0001_1406_IND17PC00386_1406",
+  "recipient": "MANTECH SRS TECHNOLOGIES, INC.",
+  "amount": 9058527.24,
+  "agency": "Department of the Interior",
+  "sub_agency": "Departmental Offices",
+  "desc": "DARPA STO BATTLE MANAGEMENT CONTROL TECHNICAL AND ADMINISTRATIVE SUPPORT",
+  "date": "2017-12-01"
+ },
+ {
+  "id": "CONT_AWD_91990023C0008_9100_-NONE-_-NONE-",
+  "recipient": "MATHEMATICA INC.",
+  "amount": 9012031.86,
+  "agency": "Department of Education",
+  "sub_agency": "Department of Education",
+  "desc": "REL PEER REVIEW",
+  "date": "2023-01-11"
+ },
+ {
+  "id": "CONT_AWD_697DCK23F00006_6920_697DCK19D00002_6920",
+  "recipient": "JACOBS ENGINEERING GROUP INC.",
+  "amount": 8974684.24,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "TERMINAL FACILITIES BIL-FUNDED TASK ORDER - BASE PROJECT IS FLINT, MI (FNT) ATCT DOWNSPOUT DESIGN PER TASK PROPOSAL 0035",
+  "date": "2022-12-13"
+ },
+ {
+  "id": "CONT_AWD_1202SA25K9226_12C2_1202SA25T9215_12C2",
+  "recipient": "HELI-1 CORP",
+  "amount": 8755228.35,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "HELI-1 CORP. - T1 EU FOR GRANTS PASS, OR",
+  "date": "2025-05-06"
+ },
+ {
+  "id": "CONT_AWD_693KA823F00101_6920_693KA822D00020_6920",
+  "recipient": "VERACITY ENGINEERING LLC",
+  "amount": 8714679.07,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "INITIAL TO 693KA8-23-F-00101_ANG ENGINEERING, OPERATIONS, AND BUSINESS MANAGEMENT SUPPORT",
+  "date": "2023-03-15"
+ },
+ {
+  "id": "CONT_AWD_80SSC026F0008_8000_47PA0425D0027_4740",
+  "recipient": "MISSISSIPPI POWER CO",
+  "amount": 8706135.5,
+  "agency": "National Aeronautics and Space Administration",
+  "sub_agency": "National Aeronautics and Space Administration",
+  "desc": "MISSISSIPPI POWER COMPANY (MPC) FOR ELECTRIC SERVICE FOR JOHN C. STENNIS SPACE CENTER (SSC)",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "CONT_AWD_47PM0922F0038_4740_47PD0319A0030_4740",
+  "recipient": "BROWN CONSTRUCTION SERVICES, INC",
+  "amount": 8592000.0,
+  "agency": "General Services Administration",
+  "sub_agency": "Public Buildings Service",
+  "desc": "PROJECT MANAGEMENT SUPPORT SERVICES FOR OFFICE OF DESIGN AND CONSTRUCTION SMALL PROJECT DIVSION. OCTOBER 1, 2022 THRU SEPTEMBER 30, 2023",
+  "date": "2022-10-01"
+ },
+ {
+  "id": "CONT_AWD_36C24725C0101_3600_-NONE-_-NONE-",
+  "recipient": "AAECON GENERAL CONTRACTING LLC",
+  "amount": 8565422.32,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "679-21-102 | CORRECT FAILING SANITARY SEWER, WATER MAIN, AND FIRE PROTECTION DEFICIENCIES",
+  "date": "2025-10-20"
+ },
+ {
+  "id": "CONT_AWD_70RFPW26FRW900005_7001_70RFPW24DW9000001_7001",
+  "recipient": "UNIVERSAL PROTECTION SERVICE, LIMITED PARTNERSHIP",
+  "amount": 8527567.04,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Office of Procurement Operations",
+  "desc": "ARMED PROTECTIVE SECURITY OFFICER (PSO) SERVICES FOR CENTRAL CALIFORNIA",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "CONT_AWD_75N94024C00001_7529_-NONE-_-NONE-",
+  "recipient": "HENNEPIN HEALTHCARE RESEARCH INSTITUTE",
+  "amount": 8398104.0,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "National Institutes of Health",
+  "desc": "NEW COST-REIMBURSEMENT CONTRACT AWARD FOR THE PROCUREMENT OF SUPPORT SERVICES FOR THE MAINTENANCE AND UPDATE THE USRDS.",
+  "date": "2024-03-08"
+ },
+ {
+  "id": "CONT_AWD_47QFSA24F0020_4732_47QTCK18D0007_4732",
+  "recipient": "SMARTRONIX, LLC",
+  "amount": 8058920.6,
+  "agency": "General Services Administration",
+  "sub_agency": "Federal Acquisition Service",
+  "desc": "CDC AWS CLOUD COMPUTE AND CAPACITY",
+  "date": "2024-03-01"
+ },
+ {
+  "id": "CONT_AWD_91990024F0395_9100_91990023D0037_9100",
+  "recipient": "NEW EDITIONS, INC.",
+  "amount": 7997219.0,
+  "agency": "Department of Education",
+  "sub_agency": "Department of Education",
+  "desc": "FEDERAL FISCAL YEAR 2024 (FFY24) DISABILITY INNOVATION FUND (DIF) TECHNICAL ASSISTANCE (TA) SERVICES",
+  "date": "2024-09-26"
+ },
+ {
+  "id": "CONT_AWD_47PF0023C0030_4740_-NONE-_-NONE-",
+  "recipient": "NICHOLS CONTRACTING, INC.",
+  "amount": 7969965.0,
+  "agency": "General Services Administration",
+  "sub_agency": "Public Buildings Service",
+  "desc": "CONTRACTOR TO PROVIDE DESIGN BUILD SERVICES FOR THE POTTER STEWART COURTHOUSE ELEVATOR MODERNIZATION PROJECT IN CINCINATTI OHIO.",
+  "date": "2023-06-02"
+ },
+ {
+  "id": "CONT_AWD_1202SA25K9219_12C2_1202SA25T9206_12C2",
+  "recipient": "CAPITOL HELICOPTERS, INC.",
+  "amount": 7889081.74,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "CAPITOL HELICOPTERS -T1 EU FOR BOISE, ID #2",
+  "date": "2025-05-06"
+ },
+ {
+  "id": "CONT_AWD_1202SA25K9227_12C2_1202SA25T9213_12C2",
+  "recipient": "D.H. HELICOPTER, INC.",
+  "amount": 7851427.9,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "DH HELICOPTERS - T1 EU SISKIYOU, CA",
+  "date": "2025-05-06"
+ },
+ {
+  "id": "CONT_AWD_70B04C25F00001072_7014_HHSN316201200199W_7529",
+  "recipient": "ARDENT MANAGEMENT CONSULTING, LLC",
+  "amount": 7510113.92,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Customs and Border Protection",
+  "desc": "THIS IS A 6-MONTH BRIDGE CONTRACT FOR INFORMATION SECURITY, PRODUCTION MONITORING AND PROCESS SUPPORT SERVICES.",
+  "date": "2025-09-16"
+ },
+ {
+  "id": "CONT_AWD_75D30122C14614_7523_-NONE-_-NONE-",
+  "recipient": "TANAQ SUPPORT SERVICES, LLC",
+  "amount": 7402768.54,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Centers for Disease Control and Prevention",
+  "desc": "OVERDOSE RESOURCE EXCHANGE & DATA DASHBOARDS MODERNIZATION SUPPORT",
+  "date": "2022-09-22"
+ },
+ {
+  "id": "CONT_AWD_70Z03823FM0000057_7008_47QTCA18D0081_4732",
+  "recipient": "EXECUTIVE INFORMATION SYSTEMS, L.L.C.",
+  "amount": 7202730.89,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Coast Guard",
+  "desc": "SAS SOFTWARE LICENSE RENEWAL",
+  "date": "2023-08-31"
+ },
+ {
+  "id": "CONT_AWD_75D30125C20701_7523_-NONE-_-NONE-",
+  "recipient": "TURNER CONSTRUCTION COMPANY",
+  "amount": 7198702.0,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Centers for Disease Control and Prevention",
+  "desc": "ROYBAL CAMPUS WINDOW AND FACADE REPAIRS",
+  "date": "2025-09-30"
+ },
+ {
+  "id": "CONT_AWD_70RFP125FRE400032_7001_70RFP125DE4000002_7001",
+  "recipient": "SIMMONS & GOLDEN SECURITY LLC",
+  "amount": 7131635.29,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Office of Procurement Operations",
+  "desc": "PROTECTIVE SECURITY OFFICER (PSO) SERVICES THROUGHOUT THE STATE OF MISSISSIPPI",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "CONT_AWD_36C26123N0280_3600_36C26120D0087_3600",
+  "recipient": "PATRIOT CONSTRUCTION INC",
+  "amount": 7129428.37,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "RENOVATE BUILDING 7 FOR SPINAL CORD INJURY UNIT AWARD",
+  "date": "2023-02-28"
+ },
+ {
+  "id": "CONT_AWD_80MSFC24FA087_8000_80KSC024DA013_8000",
+  "recipient": "AIR PRODUCTS AND CHEMICALS, INC",
+  "amount": 7127508.0,
+  "agency": "National Aeronautics and Space Administration",
+  "sub_agency": "National Aeronautics and Space Administration",
+  "desc": "THE PURPOSE OF THIS PROCUREMENT IS FOR LIQUID NITROGEN AND LIQUID OXYGEN.",
+  "date": "2024-07-19"
+ },
+ {
+  "id": "CONT_AWD_1202SA25K9220_12C2_1202SA25T9206_12C2",
+  "recipient": "CAPITOL HELICOPTERS, INC.",
+  "amount": 7111062.6,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "CAPITOL HELICOPTERS -T1 EU FOR LIBBY, MT",
+  "date": "2025-05-06"
+ },
+ {
+  "id": "CONT_AWD_15BFA023C00000005_1540_-NONE-_-NONE-",
+  "recipient": "FRONT RANGE CONSTRUCTION INC",
+  "amount": 7067032.0,
+  "agency": "Department of Justice",
+  "sub_agency": "Federal Prison System / Bureau of Prisons",
+  "desc": "BOILER REPLACEMENT AT FCC FLORENCE",
+  "date": "2023-01-24"
+ },
+ {
+  "id": "CONT_AWD_1605TA24F00022_1605_HHSN316201500012W_7529",
+  "recipient": "DLT SOLUTIONS, LLC",
+  "amount": 7046871.48,
+  "agency": "Department of Labor",
+  "sub_agency": "Office of the Assistant Secretary for Administration and Management",
+  "desc": "ORDER ISSUED TO PROCURE DEPARTMENTAL E-BUSINESS SUITE (DEBS) MODERNIZATION SERVICES TO SUPPORT THE DEPARTMENT OF LABOR (DOL) OFFICE OF CHIEF",
+  "date": "2024-03-28"
+ },
+ {
+  "id": "CONT_AWD_6973GH25C00197_6920_-NONE-_-NONE-",
+  "recipient": "SOUTHWIND CONSTRUCTION SERVICES, LLC",
+  "amount": 7007834.31,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "WO#21-019348 HANGAR 9 RENOVATION",
+  "date": "2025-09-15"
+ },
+ {
+  "id": "CONT_AWD_70RFP126FRE200002_7001_70RFP125DE2000001_7001",
+  "recipient": "SHIELDS POINT LLC",
+  "amount": 6998294.87,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Office of Procurement Operations",
+  "desc": "PROTECTIVE SECURITY OFFICER AND OTHER RELATED SERVICES FOR PLUM ISLAND ANIMAL DISEASE CENTER - NEW TASK ORDER",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "CONT_AWD_36C26119F0355_3600_GS07F217CA_4732",
+  "recipient": "SIEMENS INDUSTRY INC",
+  "amount": 6871181.88,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "IGF::OT::IGF BUILDING AUTOMATION SYSTEM",
+  "date": "2019-05-01"
+ },
+ {
+  "id": "CONT_AWD_9531CB25F0001_955F_47QTCB21D0090_4732",
+  "recipient": "GOLDEN IT LLC",
+  "amount": 6852029.92,
+  "agency": "Consumer Financial Protection Bureau",
+  "sub_agency": "Consumer Financial Protection Bureau",
+  "desc": "MICROSOFT CLOUD OFFICE AND POWER PLATFORM SUPPORT SERVICES",
+  "date": "2024-10-16"
+ },
+ {
+  "id": "CONT_AWD_19AQMM21F4185_1900_19AQMM20D0057_1900",
+  "recipient": "VXL ENTERPRISES LLC",
+  "amount": 6820265.25,
+  "agency": "Department of State",
+  "sub_agency": "Department of State",
+  "desc": "U.S. MISSION CANADA: VANCOUVER/CALGARY CONSULATE LOCAL GUARD SERVICES",
+  "date": "2021-10-01"
+ },
+ {
+  "id": "CONT_AWD_1202SA24K9241_12C2_1202SA23T9272_12C2",
+  "recipient": "HILLSBORO AVIATION, INC.",
+  "amount": 6819781.72,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "TYPE II MHSS MATOC EU TASK ORDER FOR TRIMMER, CA",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "CONT_AWD_36C24723N0243_3600_36C24719D0024_3600",
+  "recipient": "PARAMOUNT CONSTRUCTION GROUP, LLC",
+  "amount": 6623032.11,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "REPLACE CHILLER PLANT 521-19-103",
+  "date": "2023-05-11"
+ },
+ {
+  "id": "CONT_AWD_1202SA24K9226_12C2_1202SA23T9268_12C2",
+  "recipient": "HELIQWEST INTERNATIONAL INC.",
+  "amount": 6613977.15,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "TYPE II EXCLUSIVE USE FOR FRAZIER PARK, CA",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "CONT_AWD_47QTCB20C0002_4732_-NONE-_-NONE-",
+  "recipient": "ICONECTIV, LLC",
+  "amount": 6590327.49,
+  "agency": "General Services Administration",
+  "sub_agency": "Federal Acquisition Service",
+  "desc": "NETWORK LOCATION SERVICES (NLS)",
+  "date": "2020-02-01"
+ },
+ {
+  "id": "CONT_AWD_1202SA24K9224_12C2_1202SA23T9275_12C2",
+  "recipient": "INTERMOUNTAIN HELICOPTER, INC.",
+  "amount": 6581288.17,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "TYPE II EXCLUSIVE USE FOR LEWISTON, CA",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "CONT_AWD_70Z08526FIBCT0006_7008_70Z08526DIBCT0003_7008",
+  "recipient": "LAKE UNION DRYDOCK COMPANY",
+  "amount": 6573211.0,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Coast Guard",
+  "desc": "CGC CYPYRESS DD FY 26 - DEFINITIVE WORK ITEMS.",
+  "date": "2026-01-12"
+ },
+ {
+  "id": "CONT_AWD_1202SA25K9212_12C2_1202SA25T9224_12C2",
+  "recipient": "MOUNTAIN WEST HELICOPTERS, LLC",
+  "amount": 6553044.68,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "MOUNTAIN WEST - T1 EU FOR BISHOP, CA",
+  "date": "2025-03-25"
+ },
+ {
+  "id": "CONT_AWD_68HERC22C0063_6800_-NONE-_-NONE-",
+  "recipient": "CASO LOGZONE LLC",
+  "amount": 6458172.82,
+  "agency": "Environmental Protection Agency",
+  "sub_agency": "Environmental Protection Agency",
+  "desc": "OPERATION AND MAINTENANCE OF THE US EPA OFFICE OF RESEARCH AND DEVELOPMENT CENTER FOR ENVIRONMENTAL MEASURE GULF ECOSYSTEM MEASUREMENT AND M",
+  "date": "2022-08-01"
+ },
+ {
+  "id": "CONT_AWD_19AQMM20F2165_1900_19AQMM20D0057_1900",
+  "recipient": "VXL ENTERPRISES LLC",
+  "amount": 6437728.68,
+  "agency": "Department of State",
+  "sub_agency": "Department of State",
+  "desc": "LOCAL GUARD",
+  "date": "2020-10-01"
+ },
+ {
+  "id": "CONT_AWD_36C10B23N10240026_3600_VA11816D1024_3600",
+  "recipient": "CLEAR VANTAGE POINT SOLUTIONS LLC",
+  "amount": 6421002.29,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "TRANSFORMATION TWENTY-ONE TOTAL TECHNOLOGY NEXT GENERATION (T4NG) BASE CONTRACT VA ENTERPRISE ARCHITECTURE (EA) TECHNICAL ARCHITECTURE SUPPO",
+  "date": "2023-07-11"
+ },
+ {
+  "id": "CONT_AWD_75D30123F18292_7523_75D30123A15958_7523",
+  "recipient": "DRT STRATEGIES, INC.",
+  "amount": 6391899.17,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Centers for Disease Control and Prevention",
+  "desc": "DATA QUERY AND VISUALIZATION APPLICATION",
+  "date": "2023-09-27"
+ },
+ {
+  "id": "CONT_AWD_70FA3123F00000070_7022_70FA3018A00000008_7022",
+  "recipient": "DLT SOLUTIONS, LLC",
+  "amount": 6361096.52,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Federal Emergency Management Agency",
+  "desc": "12 - MONTH CALL ORDER FOR INTEGRATED PUBLIC ALERT AND WARNING SYSTEM (IPAWS)",
+  "date": "2023-09-17"
+ },
+ {
+  "id": "CONT_AWD_2033H624F00128_2036_2032H524A00003_2050",
+  "recipient": "MINBURN TECHNOLOGY GROUP, LLC",
+  "amount": 6265227.94,
+  "agency": "Department of the Treasury",
+  "sub_agency": "Bureau of the Fiscal Service",
+  "desc": "MICROSOFT ENTERPRISE ARCHITECTURE (EA) RENEWAL FOR ISS VIA TREASURY MICROSOFT BPA",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "CONT_AWD_6923G223M000001_6938_-NONE-_-NONE-",
+  "recipient": "LONG ISLAND POWER AUTHORITY",
+  "amount": 6253736.25,
+  "agency": "Department of Transportation",
+  "sub_agency": "Maritime Administration",
+  "desc": "THIS CONTRACT IS FOR SUPPLY AND DELIVERY OF ELECTRICITY FROM LONG ISLAND POWER AUTHORITY",
+  "date": "2023-04-01"
+ },
+ {
+  "id": "CONT_AWD_693JK426F95015N_6901_693JK422A500003_6901",
+  "recipient": "EMCOR GOVERNMENT SERVICES, INC",
+  "amount": 6199303.84,
+  "agency": "Department of Transportation",
+  "sub_agency": "Immediate Office of the Secretary of Transportation",
+  "desc": "THE PURPOSE OF THIS CALL ORDER UNDER BPA 693JK422A500003 IS THAT THE CONTRACTOR SHALL PROVIDE THE US DEPARTMENT OF TRANSPORTATION (DOT) WITH",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "CONT_AWD_1202SA24K9211_12C2_1202SA23T9264_12C2",
+  "recipient": "HELI-1 CORP",
+  "amount": 6190049.71,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "TYPE II EXCLUSIVE USE FOR SPRINGVILLE, CA",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "CONT_AWD_1202SA25K9214_12C2_1202SA25T9224_12C2",
+  "recipient": "MOUNTAIN WEST HELICOPTERS, LLC",
+  "amount": 6078963.75,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "MOUNTAIN WEST - T1 EU FOR CASITAS, CA",
+  "date": "2025-05-05"
+ },
+ {
+  "id": "CONT_AWD_70B04C20F00001358_7014_70B04C20A00000015_7014",
+  "recipient": "ATT MOBILITY LLC",
+  "amount": 6018519.63,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Customs and Border Protection",
+  "desc": "AT&T FIRST NET WIRELESS SERVICES",
+  "date": "2020-09-18"
+ },
+ {
+  "id": "CONT_AWD_75H70724P00078_7527_-NONE-_-NONE-",
+  "recipient": "DT-TRAK CONSULTING, INC.",
+  "amount": 5948374.9,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Indian Health Service",
+  "desc": "SIX (6) REGISTERED NURSES FOR THE SANTA FE INDIAN HEALTH CENTER.",
+  "date": "2024-04-26"
+ },
+ {
+  "id": "CONT_AWD_697DCK20F00028_6920_697DCK19D00002_6920",
+  "recipient": "JACOBS ENGINEERING GROUP INC.",
+  "amount": 5863248.85,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "ARCHITECTURE AND ENGINEERING SERVICES TO THE ENROUTE FACILITIES MODERNIZATION PROGRAM.",
+  "date": "2019-12-18"
+ },
+ {
+  "id": "CONT_AWD_36C10X26K0384_3600_36C10X23D0030_3600",
+  "recipient": "CONCORDANCE HEALTHCARE SOLUTIONS LLC",
+  "amount": 5852398.0,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "EXPRESS REPORT: MEDICAL SURGICAL PRIME VENDOR EXPENDITURES FOR THE MONTH OF JUNE 2026",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "CONT_AWD_70B01C26F00000501_7014_70B01C26A00000010_7014",
+  "recipient": "AECOM TECHNICAL SERVICES, INC.",
+  "amount": 5752996.82,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Customs and Border Protection",
+  "desc": "PROGRAM MANAGEMENT INFORMATION SYSTEM AND SHORT-TERM PROGRAM MANAGEMENT SERVICES.",
+  "date": "2026-07-20"
+ },
+ {
+  "id": "CONT_AWD_1605TB24C0001_1605_-NONE-_-NONE-",
+  "recipient": "ATI GOVERNMENT SOLUTIONS LLC",
+  "amount": 5734106.7,
+  "agency": "Department of Labor",
+  "sub_agency": "Office of the Assistant Secretary for Administration and Management",
+  "desc": "CISCO MERAKI SOFTWARE LICENSES AND SUPPORT",
+  "date": "2024-06-29"
+ },
+ {
+  "id": "CONT_AWD_75N98023F00003_7529_47QRAA21D0026_4732",
+  "recipient": "ALLMOND & CO, LLC",
+  "amount": 5668403.57,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "National Institutes of Health",
+  "desc": "NITAAC FINANCIAL ANALYSIS AND ACCOUNTING SUPPORT SERVICES",
+  "date": "2022-10-15"
+ },
+ {
+  "id": "CONT_AWD_1202SA24K9212_12C2_1202SA23T9279_12C2",
+  "recipient": "MINUTEMAN AVIATION INC",
+  "amount": 5648986.01,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "TYPE II EXCLUSIVE USE FOR LIBBY, MT",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "CONT_AWD_6973GH26F00450_6920_6973GH26D00022_6920",
+  "recipient": "ASRC FEDERAL ADVANCED RESEARCH, LLC",
+  "amount": 5562281.2,
+  "agency": "Department of Transportation",
+  "sub_agency": "Federal Aviation Administration",
+  "desc": "SECOND LEVEL ENGINEERING SUPPORT SERVICES FOR AJW-163_164",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "CONT_AWD_70RSAT21FR0000015_7001_GS00Q17NSD3000_4732",
+  "recipient": "AT&T ENTERPRISES, LLC",
+  "amount": 5439953.24,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "Office of Procurement Operations",
+  "desc": "DEPARTMENT OF HOMELAND SECURITY (DHS) OFFICE OF THE CHIEF INFORMATION OFFICER (OCIO) HEADQUARTERS CORE DATA REQUIREMENTS",
+  "date": "2021-01-01"
+ },
+ {
+  "id": "CONT_AWD_1202SA22K9135_12C2_1202SA22T9115_12C2",
+  "recipient": "GOLD AERO INC.",
+  "amount": 5304143.82,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "2022 NATIONAL AIR ATTACK, LIGHT FIXED WING ATGS BASE AND 4 OPTION YEARS FRESNO",
+  "date": "2022-04-12"
+ },
+ {
+  "id": "CONT_AWD_75H70926C00001_7527_-NONE-_-NONE-",
+  "recipient": "AVEL ECARE LLC",
+  "amount": 5203949.4,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "Indian Health Service",
+  "desc": "TELEHEALTH BRIDGE AWARDED 5,203,949.40",
+  "date": "2025-12-31"
+ },
+ {
+  "id": "CONT_AWD_2032H523F00781_2050_NNG15SC59B_8000",
+  "recipient": "AFFIGENT, LLC",
+  "amount": 5197677.3,
+  "agency": "Department of the Treasury",
+  "sub_agency": "Internal Revenue Service",
+  "desc": "THE IRS, UNS, ACQUISITION STRATEGY GROUP (ASG) IS SEEKING TO PROCURE BRAND NAME OR EQUAL SCANNERS: KODAK I5850 SCANNERS, BRAND NAME OR EQUAL",
+  "date": "2023-09-30"
+ },
+ {
+  "id": "CONT_AWD_70Z0G324FESD50002_7008_70Z04423DESD20002_7008",
+  "recipient": "AKIMA SYSTEMS ENGINEERING LLC",
+  "amount": 5175285.72,
+  "agency": "Department of Homeland Security",
+  "sub_agency": "U.S. Coast Guard",
+  "desc": "SUPPORT SERVICES TO INCLUDE: INTEGRATION OF NAIS WITH  OTHER U.S. COAST GUARD SYSTEMS, DEVELOP/UPDATE/TEST TO MEET NAIS  REQUIREMENTS, DEVEL",
+  "date": "2024-09-17"
+ },
+ {
+  "id": "CONT_AWD_75N93024C00002_7529_-NONE-_-NONE-",
+  "recipient": "MRIGLOBAL",
+  "amount": 5169142.0,
+  "agency": "Department of Health and Human Services",
+  "sub_agency": "National Institutes of Health",
+  "desc": "MYCOBACTERIUM TUBERCULOSIS (MTB) QUALITY ASSESSMENT PROGRAM (TBQA)",
+  "date": "2023-11-17"
+ },
+ {
+  "id": "CONT_AWD_123J1426C1401_12K2_-NONE-_-NONE-",
+  "recipient": "AMERICAN BEEF PACKERS, INC.",
+  "amount": 5161338.0,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Agricultural Marketing Service",
+  "desc": "COMMODITIES FOR USG FOOD DONATIONS: 2000011322/4100034461/BEEF COARSE GROUND FRZ CTN-60 LB",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "CONT_AWD_36C24724N0240_3600_36C24718D0147_3600",
+  "recipient": "HARBOR SERVICES, INC",
+  "amount": 5126645.0,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "THIS TASK ORDER AWARD IS ISSUED TO COMPLETE PROJECT 544-22-116 TO REPLACE ELECTRICAL PANELS AND BREAKERS AND TO CORRECT ELECTRICAL DEFICIENC",
+  "date": "2024-04-22"
+ },
+ {
+  "id": "CONT_AWD_1202SA22K9133_12C2_1202SA22T9116_12C2",
+  "recipient": "PONDEROSA AVIATION INC",
+  "amount": 5097204.42,
+  "agency": "Department of Agriculture",
+  "sub_agency": "Forest Service",
+  "desc": "2022 NATIONAL AIR ATTACK, LIGHT FIXED WING ATGS BASE AND 4 OPTION YEARS ALBUQUERQUE",
+  "date": "2022-04-12"
+ },
+ {
+  "id": "CONT_AWD_1305M225F0287_1330_1305M225D0031_1330",
+  "recipient": "UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH",
+  "amount": 5066890.52,
+  "agency": "Department of Commerce",
+  "sub_agency": "National Oceanic and Atmospheric Administration",
+  "desc": "CLIMATE PROGRAM OFFICE(CPO) TASK ORDER.",
+  "date": "2025-07-14"
+ },
+ {
+  "id": "CONT_AWD_36C24425C0048_3600_-NONE-_-NONE-",
+  "recipient": "HOME MAINTENANCE GROUP LLC",
+  "amount": 5035157.65,
+  "agency": "Department of Veterans Affairs",
+  "sub_agency": "Department of Veterans Affairs",
+  "desc": "TEMPORARY BOILER STUB-OUTS",
+  "date": "2025-09-16"
  }
 ]
