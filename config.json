@@ -1,6 +1,8 @@
 {
   "contract_min_value": 5000000,
+  "contract_max_value": 2000000000,
   "contract_min_mcap_ratio_alert": 0.10,
+  "contract_max_mcap_ratio_sanity": 5.0,
   "contract_ratio_siren": 0.50,
   "max_mcap_for_smallcap": 2000000000,
   "contracts_lookback_days": 5,
