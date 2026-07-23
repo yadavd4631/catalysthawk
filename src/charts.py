@@ -162,3 +162,35 @@ def render(story, closes, outdir=None) -> Path:
     if story["type"] == "contract":
         return contract_card(story, closes, outdir)
     return insider_card(story, closes, outdir)
+
+
+def test_card(outdir=None) -> Path:
+    """Branded systems-check card for the one-time live smoke test."""
+    fig = plt.figure(figsize=(8, 8), dpi=200)
+    fig.patch.set_facecolor(BG)
+    ax = fig.add_axes([0, 0, 1, 1])
+    ax.set_axis_off()
+    ax.set_xlim(0, 100)
+    ax.set_ylim(0, 100)
+    ax.text(6, 92, " SYSTEMS CHECK ", fontsize=11, family=MONO, color=GREEN,
+            va="center",
+            bbox=dict(boxstyle="round,pad=0.5", fc=BG, ec=GREEN, lw=1.3))
+    ax.text(94, 92, "CATALYSTHAWK", fontsize=13, family=SANS, weight="bold",
+            color=AMBER, ha="right", va="center")
+    ax.text(50, 60, "ONLINE", fontsize=56, family=SANS, weight="bold",
+            color=GREEN, ha="center")
+    ax.plot([30, 70], [52.5, 52.5], color=DIM, lw=1)
+    ax.text(50, 45, "Tracking U.S. government contract awards", fontsize=14.5,
+            family=SANS, color=WHITE, ha="center")
+    ax.text(50, 39.5, "+ insider cluster buys in small caps", fontsize=14.5,
+            family=SANS, color=WHITE, ha="center")
+    ax.text(50, 29, "real-time alerts · straight from official filings",
+            fontsize=10.5, family=MONO, color=GRAY, ha="center")
+    _footer(ax, "SEC EDGAR + USAspending.gov")
+    outdir = Path(outdir or OUT)
+    outdir.mkdir(parents=True, exist_ok=True)
+    p = outdir / "systems_check.png"
+    fig.savefig(p, facecolor=BG)
+    plt.close(fig)
+    log("chart:", p.name)
+    return p
