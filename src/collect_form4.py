@@ -18,7 +18,7 @@ FEED = (
     "&type=4&company=&dateb=&owner=include&count=100&start={start}&output=atom"
 )
 INDEX_RE = re.compile(
-    r'href="(https://www\.sec\.gov/Archives/edgar/data/(\d+)/([\d-]+)-index\.htm)"'
+    r'href="https://www\.sec\.gov/Archives/edgar/data/(\d+)/(\d+)/([\d-]+)-index\.htm"'
 )
 
 
@@ -78,21 +78,19 @@ def run():
             break
         if not links:
             break
-        for _url, cik, acc in links:
+        for cik, folder, acc in links:
             if acc in seen:
                 continue
             seen.add(acc)
             checked += 1
-            folder = (
-                f"https://www.sec.gov/Archives/edgar/data/{cik}/{acc.replace('-', '')}"
-            )
+            base = f"https://www.sec.gov/Archives/edgar/data/{cik}/{folder}"
             try:
-                idx = s.get(folder + "/index.json", timeout=20).json()
+                idx = s.get(base + "/index.json", timeout=20).json()
                 items = idx.get("directory", {}).get("item", [])
                 xmls = [i["name"] for i in items if i["name"].lower().endswith(".xml")]
                 if not xmls:
                     continue
-                xml_text = s.get(folder + "/" + xmls[0], timeout=20).text
+                xml_text = s.get(base + "/" + xmls[0], timeout=20).text
                 new_rows += parse_form4(xml_text)
             except Exception:
                 continue
