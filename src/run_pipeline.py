@@ -4,6 +4,7 @@ Usage:
   python -m src.run_pipeline           # full run (posting gated by DRY_RUN)
   python -m src.run_pipeline --demo    # render sample cards only, no network posts
 """
+import os
 import sys
 
 from .util import log
@@ -14,6 +15,12 @@ def main():
         from . import publish
 
         publish.demo()
+        return
+
+    if os.environ.get("DRY_RUN", "").strip().lower() == "test":
+        from . import publish
+
+        publish.test_post()
         return
 
     from . import collect_contracts, collect_form4, detect, publish
